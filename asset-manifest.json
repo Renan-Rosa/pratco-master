@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pratco-master/static/css/main.9bd0c800.css",
+    "main.js": "/pratco-master/static/js/main.d7196ffe.js",
+    "static/media/laptop.jpg": "/pratco-master/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/logo.png": "/pratco-master/static/media/logo.e049285c217751b5050a.png",
+    "static/media/single.png": "/pratco-master/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/pratco-master/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/pratco-master/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/pratco-master/index.html",
+    "main.9bd0c800.css.map": "/pratco-master/static/css/main.9bd0c800.css.map",
+    "main.d7196ffe.js.map": "/pratco-master/static/js/main.d7196ffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd0c800.css",
+    "static/js/main.d7196ffe.js"
+  ]
+}
