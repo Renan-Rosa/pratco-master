@@ -18,7 +18,7 @@ Coma bem pagando pouco e de quebra, ajude o meio ambiente
 
 🔗 _*url github:*_ https://github.com/jefersonburatto/PratCo
 
-🛬 _*url landpage:*_ https://github.com/Renan-Rosa/PRATCO-officialPage
+🛬 _*url landpage:*_ https://renan-rosa.github.io/pratco-master/#home
 
 🤝 _*url Modelo Negócio (imagem):*_ https://www.canva.com/design/DAFmd7NR4XM/052roaW5qyHYqAeKm7CVGw/view 
 
