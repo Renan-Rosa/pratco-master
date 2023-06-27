@@ -30,13 +30,13 @@ Coma bem pagando pouco e de quebra, ajude o meio ambiente
 
 ⌨️ _*url Protótipo (Figma):*_ https://www.figma.com/file/N6OZvkxZMn7Z6gEaMu0Uf1/PratCo
 
-📝 _*url Modelagem Sistema:*_ https://github.com/jefersonburatto/PratCo/wiki
+📝 _*url Modelagem Sistema:*_ 
 
 -------------------
 
 💻 *PMI III*
 
-🖥️ _*Versão do Código no github:*_ https://github.com/elmoamedeo/pratco#readme
+🖥️ _*Versão do Código no github:*_ https://github.com/elmoamedeo/pratco#readme (V1)
 
 🎥 _*url vídeo demonstração (código):*_ 
 
