@@ -1,5 +1,4 @@
--------------------
-# Pratco
+# Pratco 
 
 Coma bem pagando pouco e de quebra, ajude o meio ambiente
 -------------------
