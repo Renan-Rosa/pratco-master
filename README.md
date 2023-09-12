@@ -10,12 +10,12 @@ Coma bem pagando pouco e de quebra, ajude o meio ambiente
 
 🧑‍💻👩‍💻 _*Equipe:*_ Renan Rosa Schlemper, Lucas Zikan, Sol D noah, Marcio Rodrigues
 
-🛠️ _*Recursos/Tecnologias Utilizados:*_ Spring Boot (Java), React.JS , MySQLServer, Jhipster.
+🛠️ _*Recursos/Tecnologias Utilizados:*_ Next.js, React.js, TypeScript, Clerk, Node.js
 
 -------------------
 💡 *PMI I*
 
-🔗 _*url github:*_ https://github.com/jefersonburatto/PratCo
+🔗 _*url github:*_ https://github.com/Renan-Rosa/pratco-master/
 
 🛬 _*url landpage:*_ https://renan-rosa.github.io/pratco-master/#home
 
@@ -29,13 +29,13 @@ Coma bem pagando pouco e de quebra, ajude o meio ambiente
 
 ⌨️ _*url Protótipo (Figma):*_ https://www.figma.com/file/N6OZvkxZMn7Z6gEaMu0Uf1/PratCo
 
-📝 _*url Modelagem Sistema:*_ 
+📝 _*url Modelagem Sistema:*_ https://lucid.app/lucidchart/093a41dc-bab8-4297-99fe-478c797042e3/edit?viewport_loc=-185%2C-14%2C2673%2C1149%2CHWEp-vi-RSFO&invitationId=inv_1f219423-5d9e-44a9-b068-0b66aefce585
 
 -------------------
 
 💻 *PMI III*
 
-🖥️ _*Versão do Código no github:*_ https://github.com/elmoamedeo/pratco#readme (V1)
+🖥️ _*Versão do Código no github:*_ 
 
 🎥 _*url vídeo demonstração (código):*_ 
 
